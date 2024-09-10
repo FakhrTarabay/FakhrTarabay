@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## I'm taking Omar to sa7el on Thursday
 <!--
 [![Fakhr's GitHub stats](https://github-readme-stats.vercel.app/api?username=FakhrTarabay)](https://github.com/FakhrTarabay/github-readme-stats)
 **FakhrTarabay/FakhrTarabay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
